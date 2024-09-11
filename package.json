@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Skayle/ClaMSy.git#6c30667bef2ea90ef5331813078943e1d278eeff"
+    "url": "git+https://github.com/Skayle/ClaMSy.git"
   },
   "author": "Skayle",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Skayle/ClaMSy/issues"
   },
-  "homepage": "https://github.com/Skayle/ClaMSy/tree/6c30667bef2ea90ef5331813078943e1d278eeff#readme"
+  "homepage": "https://github.com/Skayle/ClaMSy#readme"
 }
