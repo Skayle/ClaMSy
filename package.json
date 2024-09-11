@@ -1,0 +1,19 @@
+{
+  "name": "clamsy",
+  "version": "0.1.0",
+  "description": "This project aims to provide an easy-to-use solution to non-profit organizations that provide online classroom services to people in need.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Skayle/ClaMSy.git#6c30667bef2ea90ef5331813078943e1d278eeff"
+  },
+  "author": "Skayle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Skayle/ClaMSy/issues"
+  },
+  "homepage": "https://github.com/Skayle/ClaMSy/tree/6c30667bef2ea90ef5331813078943e1d278eeff#readme"
+}
